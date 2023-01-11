@@ -1,0 +1,6 @@
+@import url("/node_modules/@fontsource/montserrat/index.css");
+@import url("./typography.css");
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
